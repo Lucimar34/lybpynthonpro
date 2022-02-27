@@ -4,6 +4,7 @@ Módulo para  exemplificar construção de projetos Python no curso PyTools
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link do curso [Python pro](https://pythonpro.com.br/) 
+
 [![Updates](https://pyup.io/repos/github/Lucimar34/lybpynthonpro/shield.svg)](https://pyup.io/repos/github/Lucimar34/lybpynthonpro/)
 [![Python 3](https://pyup.io/repos/github/Lucimar34/lybpynthonpro/python-3-shield.svg)](https://pyup.io/repos/github/Lucimar34/lybpynthonpro/)
 
